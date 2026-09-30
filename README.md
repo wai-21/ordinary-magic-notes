@@ -1,28 +1,30 @@
-# 📘 《最小努力法则》(Ordinary Magic) 读书笔记：把心理学拆进 12 个高压决策场景
+# 📘 《最小努力法则》(Ordinary Magic) 读书笔记：把心理学拆进 16 个高压决策场景
 
-**客观事实从来不致命，致命的是你对事实的解释。** 这份笔记把格雷戈里·沃尔顿（Gregory M. Walton）的《最小努力法则》（*Ordinary Magic*）放进 12 个高压沙盘里推演：新人崩盘、团队摆烂、合伙人猜忌、空降局外人、制度崩坏、IPO 前的功臣越权——每一局都留下可迁移的结论，最后汇总成 **43 条行动算法**。
+> 🌐 **Bilingual / 双语**：[中文版（本页）](./) · [English version / 英文版](./en/docs/)
 
-> 📖 **12 个主题** · 📝 约 3.4 万字 · ⏱️ 约 45 分钟 · [📚 分篇总目录](./docs/) · [🚪 从导览开始](./docs/00-导览-最小努力法则-30秒读懂.md)
+**客观事实从来不致命，致命的是你对事实的解释。** 这份笔记把格雷戈里·沃尔顿（Gregory M. Walton）的《最小努力法则》（*Ordinary Magic*）放进 16 个高压沙盘里推演：新人崩盘、团队摆烂、合伙人猜忌、空降局外人、制度崩坏、IPO 前的功臣越权——每一局都留下可迁移的结论，最后汇总成 **60 条行动算法**。
+
+> 📖 **16 个主题** · 📝 约 4.2 万字 · ⏱️ 约 55 分钟 · [📚 中文分篇总目录](./docs/) · [🚪 从导览开始](./docs/00-导览-最小努力法则-30秒读懂.md) · [🌐 English](./en/docs/)
 
 ## 摘要 / Abstract
 
-**中文**：《最小努力法则》原名 *Ordinary Magic: The Science of How We Can Achieve Big Change with Small Acts*，斯坦福心理学教授 Gregory M. Walton 的核心研究是「**明智干预（Wise Interventions）**」——不改客观任务，只改人对任务的主观解释，就能四两拨千斤地扭转行为惯性。这份笔记用 12 场对抗式沙盘推演把它拆开：向下螺旋、习得性无助、身份重塑、受威胁的自尊、信任重建、归属不确定性、制度设计，以及 4 场综合大考。每一局都保留了「选了什么 → 被反杀在哪 → 留下的规则」的完整链条。
+**中文**：《最小努力法则》原名 *Ordinary Magic: The Science of How We Can Achieve Big Change with Small Acts*，斯坦福心理学教授 Gregory M. Walton 的核心研究是「**明智干预（Wise Interventions）**」——不改客观任务，只改人对任务的主观解释，就能四两拨千斤地扭转行为惯性。这份笔记用 16 场对抗式沙盘推演把它拆开：向下螺旋、习得性无助、身份重塑、受威胁的自尊、信任重建、归属不确定性、制度设计、群体常模、超越性目的、体制隐喻、涟漪效应，以及 4 场综合大考。每一局都保留了「选了什么 → 被反杀在哪 → 留下的规则」的完整链条。
 
-**EN**: *Ordinary Magic* by Stanford psychologist Gregory M. Walton is about **wise interventions** — small, precise shifts in how people interpret reality, which can reset behaviour and life trajectories. These notes run the book through 12 high-pressure decision sandboxes (spiralling down, learned helplessness, identity reframing, threatened ego, broken trust, belonging uncertainty, institutional design, plus 4 integrated drills), each recording what was chosen, where it backfired, and the rule that survived. A 43-item action checklist is included.
+**EN**: *Ordinary Magic* by Stanford psychologist Gregory M. Walton is about **wise interventions** — small, precise shifts in how people interpret reality, which can reset behaviour and life trajectories. These notes run the book through 16 high-pressure decision sandboxes (spiralling down, learned helplessness, identity reframing, threatened ego, broken trust, belonging uncertainty, institutional design, dynamic norms, self-transcendent purpose, institutional metaphor, ripple effects, plus 4 integrated drills), each recording what was chosen, where it backfired, and the rule that survived. A 60-item action checklist is included.
 
 ## 为什么值得点开
 
 | | |
 | :--- | :--- |
-| **不是摘要，是实战** | 12 个完整决策场景 + 后果推演 + 黑天鹅突变，不是把书重说一遍 |
+| **不是摘要，是实战** | 16 个完整决策场景 + 后果推演 + 黑天鹅突变，不是把书重说一遍 |
 | **保留了「错在哪」** | 每一局都原样留下被打脸的经过——我选了 X，被指出错在 Y |
-| **43 条可直接调用** | [附录 A](./docs/A-附录A-43条行动算法总表.md) 把全部算法写成「触发信号 → 动作」，可当检查清单用 |
+| **60 条可直接调用** | [附录 A](./docs/A-附录A-60条行动算法总表.md) 把全部算法写成「触发信号 → 动作」，可当检查清单用 |
 | **也写了什么时候不该用** | [边界与盲区](./docs/B-边界-心理干预13条失效条件.md) 列出 13 条失效条件——知道魔法何时变毒药更值钱 |
 | **书目信息已核验** | ISBN、页数、11 章真实目录与起始页码见 [附录 B](./docs/C-附录B-书目信息-ISBN-目录核验.md) |
 
 **谁适合读**：带团队的管理者 · HR 与组织发展从业者 · 需要向受挫下属/伴侣/合作方开口的人 · 对行为经济学与应用心理学感兴趣的读者 · 想判断「这本书要不要买」的人。
 
-## 12 个主题
+## 16 个主题
 
 | # | 主题 | 一句话结论 |
 | :--: | :--- | :--- |
@@ -38,8 +40,12 @@
 | 10 | [大考三 · 吹哨人悖论](./docs/10-吹哨人悖论-抽屉协议-自首式披露.md) | 抽屉协议是你亲手递出去的刀；凡不能公开的协议一律不签 |
 | 11 | [大考四 · 明智反馈](./docs/11-明智反馈-元信号-天才爆破手.md) | 处罚的杀伤力取决于它向全公司广播了一句什么话 |
 | 12 | [叙事重构总纲](./docs/12-叙事重构-禀赋效应-冷处理.md) | 不改客观任务，只改主观解释——这是全书的第一性原理 |
+| 13 | [群体常模 · 动态常模](./docs/13-群体常模-动态常模-私下信念差.md) | 先测「私下信念差」再动手；永远宣传变化率而非绝对值；用系统默认值替代说教 |
+| 14 | [超越性目的 · 双重动机](./docs/14-超越性目的-双重动机-沈博士.md) | 封杀「纯市侩 / 纯圣人」二元宣教；微观动作锚定宏观影响；让崇高使命与现实利益对称兑现 |
+| 15 | [体制隐喻 · 支架型隐喻](./docs/15-体制隐喻-支架型隐喻-洛哥雕塑.md) | 剥离「物理同化」符号；建低摩擦单向接口；把反抗符号征用为系统自省雷达 |
+| 16 | [涟漪效应 · 递归循环](./docs/16-涟漪效应-递归循环-探针重构.md) | 锁关键受体窗口；物理改造环境可供性；动态滚动世代带新；设微观测仪表盘 |
 
-**附录**：[A · 43 条行动算法总表](./docs/A-附录A-43条行动算法总表.md) · [B · 边界与 13 条失效条件](./docs/B-边界-心理干预13条失效条件.md) · [C · 书目信息与数据核验](./docs/C-附录B-书目信息-ISBN-目录核验.md) · [Z · 收束](./docs/Z-收束-结构与叙事的先后.md) · [🧭 演化地图](./docs/roadmap-Ordinary-Magic-12主题演化地图.md)
+**附录**：[A · 60 条行动算法总表](./docs/A-附录A-60条行动算法总表.md) · [B · 边界与 13 条失效条件](./docs/B-边界-心理干预13条失效条件.md) · [C · 书目信息与数据核验](./docs/C-附录B-书目信息-ISBN-目录核验.md) · [Z · 收束](./docs/Z-收束-结构与叙事的先后.md) · [🧭 演化地图](./docs/roadmap-Ordinary-Magic-16主题演化地图.md)
 
 ## FAQ
 
@@ -100,7 +106,7 @@
 - **笔记正文**：[CC BY-NC-SA 4.0](https://github.com/wai-21/ordinary-magic-notes/blob/main/LICENSE)（署名 / 非商业 / 相同方式共享）。
 - **原书观点**版权归 Gregory M. Walton 及原出版方所有。本笔记是学习性转述与实战化重组，**不替代原书阅读**。
 - **重要边界**：笔记中「原书核心精髓」部分来自 AI 陪练官对原书的转述，**未经原书原文核对**（置信度：中）；书目信息已用出版社官方页面与 Google Books 目录页核验（置信度：高）。详见[附录 B](./docs/C-附录B-书目信息-ISBN-目录核验.md)。
-- **免责**：12 个沙盘场景、所有人物与对话均为 AI 构造的寓言，不对应任何真实个人、机构或事件；笔记不构成管理、法律、投资或合规建议。
+- **免责**：16 个沙盘场景、所有人物与对话均为 AI 构造的寓言，不对应任何真实个人、机构或事件；笔记不构成管理、法律、投资或合规建议。
 
 ---
 

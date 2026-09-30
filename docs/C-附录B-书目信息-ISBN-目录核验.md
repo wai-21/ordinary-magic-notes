@@ -36,15 +36,15 @@ keywords: 书目信息, ISBN, 9780593580899, Ordinary Magic 目录, 置信度, G
 | Ch3 | Do I Belong? | 63 | 主题 06 |
 | Ch4 | Can I Do It? | 117 | 主题 02 |
 | Ch5 | Who Am I? | 168 | 主题 03 |
-| Ch6 | Reducing Global Poverty | 209 | 主题 07 |
+| Ch6 | Reducing Global Poverty（沙盘重构为「动态常模」） | 209 | 主题 13 |
 | Ch7 | Do You Love Me? | 225 | 主题 04 |
 | Ch8 | Can I Trust You? | 276 | 主题 05 |
-| Ch9 | Improving School for the Most Vulnerable Children | 331 | 主题 07 |
-| Ch10 | Toward a Better World | 345 | 主题 07 |
-| Ch11 | Making School Wise | 364 | 主题 07 |
+| Ch9 | Improving School for the Most Vulnerable Children（沙盘重构为「自我超越」） | 331 | 主题 14 |
+| Ch10 | Toward a Better World（沙盘重构为「体制隐喻」） | 345 | 主题 15 |
+| Ch11 | Making School Wise（沙盘重构为「涟漪效应」） | 364 | 主题 16 |
 
 > **校正留痕**：对话中陪练官给出的目录把 Ch6「Reducing Global Poverty」排在 Ch7 之后；按 Google Books 目录页的实际页码，Ch6（p.209）位于 Ch5（p.168）与 Ch7（p.225）之间。本笔记以真实出版信息为准。
-> **未覆盖章节**：Ch6（缓解全球贫困）、Ch9（弱势儿童教育）、Ch10（走向更好的世界）、Ch11（打造智慧校园）四章，在沙盘推演中**没有被单独拆解**，只在主题 07 的宏观制度局中被合并处理。若你读完原书后想补齐，这四章是本笔记最大的空白。
+> **已补齐章节**：Ch6 / Ch9 / Ch10 / Ch11 四章此前仅在主题 07 合并处理，现已在补充素材中**单独拆解**为 主题 13（动态常模）、主题 14（自我超越）、主题 15（体制隐喻）、主题 16（涟漪效应）。需说明：陪练官在沙盘中将这四章的英文原名重新诠释为「动态常模 / 自我超越 / 体制隐喻 / 涟漪效应」等主题，**与原书章节标题并非字面对应**；本笔记以沙盘推演内容为准，原书真实章节名与页码见上表。
 
 ### B3 · 引文与数据的置信度总表
 
