@@ -13,6 +13,10 @@ OUT = "docs"
 
 BOOK = "最小努力法则读书笔记"
 
+def yq(s):
+    """YAML 双引号标量包裹（转义反斜杠与双引号）。"""
+    return '"' + str(s).replace('\\', '\\\\').replace('"', '\\"') + '"'
+
 INDEX_TITLE = "《最小努力法则》(Ordinary Magic) 读书笔记 · 总目录（16 主题）"
 INDEX_DESC = "把格雷戈里·沃尔顿的《Ordinary Magic》拆进 16 个高压决策场景：向下螺旋、习得性无助、身份重塑、受威胁的自尊、信任重建、归属感、制度设计，以及动态常模、超越性目的、体制隐喻与涟漪效应四大宏观系统章，附 60 条行动算法。"
 INDEX_KEYWORDS = ("最小努力法则, Ordinary Magic, 格雷戈里沃尔顿, 明智干预, wise interventions, "
@@ -30,7 +34,7 @@ SECTIONS = [
     ("roadmap-Ordinary-Magic-16主题演化地图.md", f"学习演化地图：16 个主题对照表 · {BOOK}",
      lambda l: l.startswith("## 🧭 学习演化地图"),
      "学习演化地图, roadmap, Ordinary Magic 章节对照, 核心精髓, 可迁移结论",
-     "12 个主题 × 原书核心精髓 × 我的可迁移结论的四列对照表，一页看清全书拆解进度。"),
+     "16 个主题 × 原书核心精髓 × 我的可迁移结论的四列对照表，一页看清全书拆解进度。"),
 
     ("01-向下螺旋-新人被否定-行为前置.md", f"向下螺旋：为什么一句平淡的否定能毁掉一个新人 · {BOOK}",
      lambda l: l.startswith("### 01."),
@@ -204,16 +208,16 @@ def main():
         if prevf: nav += f"　·　[⬅️ 上一篇]({prevf})"
         if nextf: nav += f"　·　[下一篇 ➡️]({nextf})"
         content = (
-            f"---\ntitle: {title}\ndescription: {desc}\nkeywords: {kw}\n---\n\n"
+            f"---\ntitle: {yq(title)}\ndescription: {yq(desc)}\nkeywords: {yq(kw)}\n---\n\n"
             f"> {nav}\n\n---\n\n{body}\n\n---\n\n> {nav}\n"
         )
         open(os.path.join(ROOT, OUT, fname), "w", encoding="utf-8").write(content)
         print(f"  ✓ {fname} ({len(content)} 字符)")
 
     index = f"""---
-title: {INDEX_TITLE}
-description: {INDEX_DESC}
-keywords: {INDEX_KEYWORDS}
+title: {yq(INDEX_TITLE)}
+description: {yq(INDEX_DESC)}
+keywords: {yq(INDEX_KEYWORDS)}
 ---
 
 # {INDEX_H1}

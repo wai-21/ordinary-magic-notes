@@ -1,7 +1,8 @@
 ---
-title: Trial II: The Genius You Punished Will Blackmail You Back · Ordinary Magic Reading Notes
-description: Drive a genius to the bottom then hand him a key to lock his teammates and he'll run a black market; cut the ransom surface, carve a legal escape hatch, inject dynamic randomness.
-keywords: brilliant jerk, blackmail, architecture of hope, legal escape hatch, dynamic randomness
+title: "Trial II: The Genius You Punished Will Blackmail You Back · Ordinary Magic Reading Notes"
+description: "Drive a genius to the bottom then hand him a key to lock his teammates and he'll run a black market; cut the ransom surface, carve a legal escape hatch, inject dynamic randomness."
+keywords: "brilliant jerk, blackmail, architecture of hope, legal escape hatch, dynamic randomness"
+lang: en
 ---
 
 > [📚 Index](./)　·　[⬅️ Prev](08-crisis-leadership-veto.md)　·　[Next ➡️](10-whistleblower-side-letter.md)

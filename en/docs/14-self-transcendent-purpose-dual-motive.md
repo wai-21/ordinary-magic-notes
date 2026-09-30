@@ -1,7 +1,8 @@
 ---
-title: Self-Transcendent Purpose: Why 'Tech for Good' and 'It's Just Money' Are Both Poison · Ordinary Magic Reading Notes
-description: To endure extreme drudgery, money fatigues and slogans breed cynicism; only the dual-motive (transcendent purpose + self-interest) bites—make business the armor of the sacred.
-keywords: self-transcendent purpose, dual-motive architecture, motivation, saying-is-believing
+title: "Self-Transcendent Purpose: Why 'Tech for Good' and 'It's Just Money' Are Both Poison · Ordinary Magic Reading Notes"
+description: "To endure extreme drudgery, money fatigues and slogans breed cynicism; only the dual-motive (transcendent purpose + self-interest) bites—make business the armor of the sacred."
+keywords: "self-transcendent purpose, dual-motive architecture, motivation, saying-is-believing"
+lang: en
 ---
 
 > [📚 Index](./)　·　[⬅️ Prev](13-dynamic-norms-belief-gap.md)　·　[Next ➡️](15-institutional-metaphor-scaffolding.md)

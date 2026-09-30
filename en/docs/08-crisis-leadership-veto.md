@@ -1,7 +1,8 @@
 ---
-title: Trial I: When Three Correct Mechanisms Cancel Each Other · Ordinary Magic Reading Notes
-description: Three perfect gears mesh and jam; fix structure before narrative—pull the horizontal veto, lock a single owner, asymmetric incentive, encapsulate the defender.
-keywords: crisis leadership, horizontal veto, dual-signature, single owner, asymmetric incentive
+title: "Trial I: When Three Correct Mechanisms Cancel Each Other · Ordinary Magic Reading Notes"
+description: "Three perfect gears mesh and jam; fix structure before narrative—pull the horizontal veto, lock a single owner, asymmetric incentive, encapsulate the defender."
+keywords: "crisis leadership, horizontal veto, dual-signature, single owner, asymmetric incentive"
+lang: en
 ---
 
 > [📚 Index](./)　·　[⬅️ Prev](07-institutional-design-linkage.md)　·　[Next ➡️](09-brilliant-jerk-blackmail.md)

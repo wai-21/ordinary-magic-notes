@@ -1,10 +1,11 @@
 ---
-title: Ordinary Magic (最小努力法则) · Reading Notes Index (16 Themes)
-description: A practical reader's notebook that breaks down Gregory M. Walton's Ordinary Magic into 16 high-pressure decision scenarios: downward spiral, learned helplessness, identity reframing, threatened ego, trust rebuilding, belonging, institutional design, dynamic norms, self-transcendent purpose, institutional messaging, and ripple effects — with 60 actionable algorithms.
-keywords: Ordinary Magic, Gregory Walton, wise interventions, reading notes, downward spiral, learned helplessness, narrative reframing, belonging, dynamic norms, self-transcendent purpose, institutional messaging, ripple effects
+title: "Ordinary Magic · Reading Notes Index (16 Themes)"
+description: "A practical reader's notebook that breaks down Gregory M. Walton's Ordinary Magic into 16 high-pressure decision scenarios: downward spiral, learned helplessness, identity reframing, threatened ego, trust rebuilding, belonging, institutional design, dynamic norms, self-transcendent purpose, institutional messaging, and ripple effects — with 60 actionable algorithms."
+keywords: "Ordinary Magic, Gregory Walton, wise interventions, reading notes, downward spiral, learned helplessness, narrative reframing, belonging, dynamic norms, self-transcendent purpose, institutional messaging, ripple effects"
+lang: en
 ---
 
-# 📘 Ordinary Magic (最小努力法则) · Reading Notes Index (16 Themes)
+# 📘 Ordinary Magic · Reading Notes Index (16 Themes)
 
 A practical reader's notebook that breaks down Gregory M. Walton's Ordinary Magic into 16 high-pressure decision scenarios: downward spiral, learned helplessness, identity reframing, threatened ego, trust rebuilding, belonging, institutional design, dynamic norms, self-transcendent purpose, institutional messaging, and ripple effects — with 60 actionable algorithms.
 

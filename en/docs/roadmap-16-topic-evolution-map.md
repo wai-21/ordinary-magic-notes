@@ -1,7 +1,8 @@
 ---
-title: Learning Evolution Roadmap: 16-Theme Map · Ordinary Magic Reading Notes
-description: A four-column map of 16 themes x author's core insight x my transferable conclusion x current status.
-keywords: learning roadmap, evolution map, ordinary magic chapter map, core insights
+title: "Learning Evolution Roadmap: 16-Theme Map · Ordinary Magic Reading Notes"
+description: "A four-column map of 16 themes x author's core insight x my transferable conclusion x current status."
+keywords: "learning roadmap, evolution map, ordinary magic chapter map, core insights"
+lang: en
 ---
 
 > [📚 Index](./)　·　[⬅️ Prev](00-start-here-30-second-orientation.md)　·　[Next ➡️](01-downward-spiral-newhire.md)

@@ -1,7 +1,8 @@
 ---
-title: Ripple Effects: Why a 'Miracle' Reverts in Six Months · Ordinary Magic Reading Notes
-description: Any intervention decays unless it forms a self-sustaining recursive loop; lock critical windows, retrofit affordances, frame pioneers as probes, roll generational mentorship, micro-dashboards.
-keywords: ripple effects, recursive cycle, affordance, critical juncture, generational mentorship, probe
+title: "Ripple Effects: Why a 'Miracle' Reverts in Six Months · Ordinary Magic Reading Notes"
+description: "Any intervention decays unless it forms a self-sustaining recursive loop; lock critical windows, retrofit affordances, frame pioneers as probes, roll generational mentorship, micro-dashboards."
+keywords: "ripple effects, recursive cycle, affordance, critical juncture, generational mentorship, probe"
+lang: en
 ---
 
 > [📚 Index](./)　·　[⬅️ Prev](15-institutional-metaphor-scaffolding.md)　·　[Next ➡️](A-appendix-a-60-action-algorithms.md)

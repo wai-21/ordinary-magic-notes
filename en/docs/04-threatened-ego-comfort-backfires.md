@@ -1,7 +1,8 @@
 ---
-title: Do You Love Me: Why Comfort Backfires on the Wounded · Ordinary Magic Reading Notes
-description: To the just-crushed, 'it's fine, just skip it' is a verdict not comfort; the fix is block sympathy, flip identity by asking him for help, trigger saying-is-believing.
-keywords: threatened ego, comfort is condescension, saying-is-believing, advocate effect
+title: "Do You Love Me: Why Comfort Backfires on the Wounded · Ordinary Magic Reading Notes"
+description: "To the just-crushed, 'it's fine, just skip it' is a verdict not comfort; the fix is block sympathy, flip identity by asking him for help, trigger saying-is-believing."
+keywords: "threatened ego, comfort is condescension, saying-is-believing, advocate effect"
+lang: en
 ---
 
 > [📚 Index](./)　·　[⬅️ Prev](03-identity-reframing-labels.md)　·　[Next ➡️](05-trust-rebuilding-suspicion.md)

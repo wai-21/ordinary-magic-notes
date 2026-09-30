@@ -1,7 +1,8 @@
 ---
-title: Macro System: What a System Whispers Matters More Than Its Text · Ordinary Magic Reading Notes
-description: A process needing four sign-offs to reimburse 50 yuan whispers 'we assume you're all thieves'; four checks plus treating violations as system bug reports.
-keywords: institutional design, collective punishment, procedural justice, restorative, tragedy of commons
+title: "Macro System: What a System Whispers Matters More Than Its Text · Ordinary Magic Reading Notes"
+description: "A process needing four sign-offs to reimburse 50 yuan whispers 'we assume you're all thieves'; four checks plus treating violations as system bug reports."
+keywords: "institutional design, collective punishment, procedural justice, restorative, tragedy of commons"
+lang: en
 ---
 
 > [📚 Index](./)　·　[⬅️ Prev](06-belonging-outsider.md)　·　[Next ➡️](08-crisis-leadership-veto.md)

@@ -1,7 +1,8 @@
 ---
-title: Closing: What This Notebook Actually Changed · Ordinary Magic Reading Notes
-description: Three layers of reordered judgment: from changing behavior to changing interpretation, from interpretation to changing structure, from structure to changing my own instincts.
-keywords: closing, summary, structure vs narrative, meta-signal, reading notes summary
+title: "Closing: What This Notebook Actually Changed · Ordinary Magic Reading Notes"
+description: "Three layers of reordered judgment: from changing behavior to changing interpretation, from interpretation to changing structure, from structure to changing my own instincts."
+keywords: "closing, summary, structure vs narrative, meta-signal, reading notes summary"
+lang: en
 ---
 
 > [📚 Index](./)　·　[⬅️ Prev](C-appendix-b-bibliography.md)

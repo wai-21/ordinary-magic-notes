@@ -1,7 +1,8 @@
 ---
-title: Appendix B: Bibliography & Data Verification · Ordinary Magic Reading Notes
-description: Verified bibliography (ISBN 9780593580899 / 464pp / 2025-03-25), the real 11-chapter contents with page numbers, and a confidence table for all quotes/data.
-keywords: bibliography, ISBN, 9780593580899, ordinary magic contents, confidence
+title: "Appendix B: Bibliography & Data Verification · Ordinary Magic Reading Notes"
+description: "Verified bibliography (ISBN 9780593580899 / 464pp / 2025-03-25), the real 11-chapter contents with page numbers, and a confidence table for all quotes/data."
+keywords: "bibliography, ISBN, 9780593580899, ordinary magic contents, confidence"
+lang: en
 ---
 
 > [📚 Index](./)　·　[⬅️ Prev](B-boundaries-13-failure-conditions.md)　·　[Next ➡️](Z-closing-structure-vs-narrative.md)

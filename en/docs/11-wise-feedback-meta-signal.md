@@ -1,7 +1,8 @@
 ---
-title: Trial IV: You Won the Rule, Lost the Balance Sheet · Ordinary Magic Reading Notes
-description: A penalty's damage comes from the meta-signal it broadcasts to the whole company; a four-step Wise Repair checklist.
-keywords: wise feedback, meta-signal, dual-track narrative, off-ramp, innovation sandbox
+title: "Trial IV: You Won the Rule, Lost the Balance Sheet · Ordinary Magic Reading Notes"
+description: "A penalty's damage comes from the meta-signal it broadcasts to the whole company; a four-step Wise Repair checklist."
+keywords: "wise feedback, meta-signal, dual-track narrative, off-ramp, innovation sandbox"
+lang: en
 ---
 
 > [📚 Index](./)　·　[⬅️ Prev](10-whistleblower-side-letter.md)　·　[Next ➡️](12-narrative-reframing-endowment.md)

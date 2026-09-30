@@ -1,7 +1,8 @@
 ---
-title: Start Here: 30-Second Orientation · Ordinary Magic Reading Notes
-description: What the book is about, how the sandbox works, three background essentials, character index, and a 39-term plain-language glossary.
-keywords: ordinary magic, reading notes, wise interventions, sandbox, glossary
+title: "Start Here: 30-Second Orientation · Ordinary Magic Reading Notes"
+description: "What the book is about, how the sandbox works, three background essentials, character index, and a 39-term plain-language glossary."
+keywords: "ordinary magic, reading notes, wise interventions, sandbox, glossary"
+lang: en
 ---
 
 > [📚 Index](./)　·　[Next ➡️](roadmap-16-topic-evolution-map.md)

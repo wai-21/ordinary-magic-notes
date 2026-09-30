@@ -1,7 +1,8 @@
 ---
-title: Institutional Metaphor: Why Tearing Down Cubicles Beats Bonuses · Ordinary Magic Reading Notes
-description: The brain is a tireless decoder of implicit intent; strip assimilative symbols, build low-friction interfaces, lock asymmetric boundaries, appropriate protest symbols as radar.
-keywords: institutional messaging, scaffolding metaphor, assimilative metaphor, API interface, implicit intent
+title: "Institutional Metaphor: Why Tearing Down Cubicles Beats Bonuses · Ordinary Magic Reading Notes"
+description: "The brain is a tireless decoder of implicit intent; strip assimilative symbols, build low-friction interfaces, lock asymmetric boundaries, appropriate protest symbols as radar."
+keywords: "institutional messaging, scaffolding metaphor, assimilative metaphor, API interface, implicit intent"
+lang: en
 ---
 
 > [📚 Index](./)　·　[⬅️ Prev](14-self-transcendent-purpose-dual-motive.md)　·　[Next ➡️](16-ripple-effects-recursive-cycle.md)

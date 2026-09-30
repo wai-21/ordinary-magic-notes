@@ -1,7 +1,8 @@
 ---
-title: Narrative Reframing: The First Principle of the Whole Book · Ordinary Magic Reading Notes
-description: Don't change the task on his desk—change his interpretation of it; diagnose the narrative virus, find the Archimedes lever, create behavioral evidence not promises.
-keywords: narrative reframing, endowment effect, overjustification, cold treatment, Archimedes lever
+title: "Narrative Reframing: The First Principle of the Whole Book · Ordinary Magic Reading Notes"
+description: "Don't change the task on his desk—change his interpretation of it; diagnose the narrative virus, find the Archimedes lever, create behavioral evidence not promises."
+keywords: "narrative reframing, endowment effect, overjustification, cold treatment, Archimedes lever"
+lang: en
 ---
 
 > [📚 Index](./)　·　[⬅️ Prev](11-wise-feedback-meta-signal.md)　·　[Next ➡️](13-dynamic-norms-belief-gap.md)

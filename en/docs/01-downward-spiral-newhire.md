@@ -1,7 +1,8 @@
 ---
-title: Downward Spiral: How One Flat No Undoes a New Hire · Ordinary Magic Reading Notes
-description: What ruins a person is never the small event but the meaning he assigns to it; fix by allowing bottoming out, stripping stakes, and a threat-free micro-loop.
-keywords: downward spiral, spiraling down, attribution, action precedes belief, micro-win
+title: "Downward Spiral: How One Flat No Undoes a New Hire · Ordinary Magic Reading Notes"
+description: "What ruins a person is never the small event but the meaning he assigns to it; fix by allowing bottoming out, stripping stakes, and a threat-free micro-loop."
+keywords: "downward spiral, spiraling down, attribution, action precedes belief, micro-win"
+lang: en
 ---
 
 > [📚 Index](./)　·　[⬅️ Prev](roadmap-16-topic-evolution-map.md)　·　[Next ➡️](02-learned-helplessness-work-order.md)

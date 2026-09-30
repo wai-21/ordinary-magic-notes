@@ -1,7 +1,8 @@
 ---
-title: Can I Trust You: Stop Self-Defending, Show Him the Endgame · Ordinary Magic Reading Notes
-description: When someone is sure you're out to get him, every good deed is decoded as conspiracy; freeze self-defense, claim the worst label, fast-forward 24h past destruction, use structure over moral trust.
-keywords: trust rebuilding, confirmation bias, self-incrimination trap, structural transparency
+title: "Can I Trust You: Stop Self-Defending, Show Him the Endgame · Ordinary Magic Reading Notes"
+description: "When someone is sure you're out to get him, every good deed is decoded as conspiracy; freeze self-defense, claim the worst label, fast-forward 24h past destruction, use structure over moral trust."
+keywords: "trust rebuilding, confirmation bias, self-incrimination trap, structural transparency"
+lang: en
 ---
 
 > [📚 Index](./)　·　[⬅️ Prev](04-threatened-ego-comfort-backfires.md)　·　[Next ➡️](06-belonging-outsider.md)

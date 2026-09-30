@@ -1,7 +1,8 @@
 ---
-title: Methodological Boundaries & Known Blind Spots · Ordinary Magic Reading Notes
-description: 5 source boundaries of this notebook plus 13 failure conditions of the method itself, and my 12-round thinking minefield.
-keywords: method boundaries, psychology intervention failure, zero-sum, narcissism, illegality
+title: "Methodological Boundaries & Known Blind Spots · Ordinary Magic Reading Notes"
+description: "5 source boundaries of this notebook plus 13 failure conditions of the method itself, and my 12-round thinking minefield."
+keywords: "method boundaries, psychology intervention failure, zero-sum, narcissism, illegality"
+lang: en
 ---
 
 > [📚 Index](./)　·　[⬅️ Prev](A-appendix-a-60-action-algorithms.md)　·　[Next ➡️](C-appendix-b-bibliography.md)

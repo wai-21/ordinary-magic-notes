@@ -1,7 +1,8 @@
 ---
-title: Who Am I: Give Him a Noun, Then Lock His Behavior with It · Ordinary Magic Reading Notes
-description: To change behavior, don't correct the action—redefine who he is; purify the positive motive behind a negative behavior, mint a noun-amulet, then give one minimal on-identity move.
-keywords: identity reframing, power of nouns, self-consistency bias, tearing off labels
+title: "Who Am I: Give Him a Noun, Then Lock His Behavior with It · Ordinary Magic Reading Notes"
+description: "To change behavior, don't correct the action—redefine who he is; purify the positive motive behind a negative behavior, mint a noun-amulet, then give one minimal on-identity move."
+keywords: "identity reframing, power of nouns, self-consistency bias, tearing off labels"
+lang: en
 ---
 
 > [📚 Index](./)　·　[⬅️ Prev](02-learned-helplessness-work-order.md)　·　[Next ➡️](04-threatened-ego-comfort-backfires.md)

@@ -1,7 +1,8 @@
 ---
-title: Appendix A: 60 Action Algorithms · Ordinary Magic Reading Notes
-description: 60 algorithms distilled from 16 sandboxes, grouped into 7 scenarios, each written as 'trigger signal → action', usable as a checklist.
-keywords: action algorithms, checklist, attribution, trust, belonging, institution, violation repair
+title: "Appendix A: 60 Action Algorithms · Ordinary Magic Reading Notes"
+description: "60 algorithms distilled from 16 sandboxes, grouped into 7 scenarios, each written as 'trigger signal → action', usable as a checklist."
+keywords: "action algorithms, checklist, attribution, trust, belonging, institution, violation repair"
+lang: en
 ---
 
 > [📚 Index](./)　·　[⬅️ Prev](16-ripple-effects-recursive-cycle.md)　·　[Next ➡️](B-boundaries-13-failure-conditions.md)

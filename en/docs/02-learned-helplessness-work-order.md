@@ -1,7 +1,8 @@
 ---
-title: Can I Do It: Downgrading 'We're Doomed' to a Ticket · Ordinary Magic Reading Notes
-description: When a team says 'we're finished', don't rebut the conclusion—break the quantifiers: turn 'finished' into '3 bugs and 1 interaction slip'; ban qualifiers, force quantification.
-keywords: learned helplessness, attribution dimensions, paradoxical intention, quantify
+title: "Can I Do It: Downgrading 'We're Doomed' to a Ticket · Ordinary Magic Reading Notes"
+description: "When a team says 'we're finished', don't rebut the conclusion—break the quantifiers: turn 'finished' into '3 bugs and 1 interaction slip'; ban qualifiers, force quantification."
+keywords: "learned helplessness, attribution dimensions, paradoxical intention, quantify"
+lang: en
 ---
 
 > [📚 Index](./)　·　[⬅️ Prev](01-downward-spiral-newhire.md)　·　[Next ➡️](03-identity-reframing-labels.md)

@@ -1,7 +1,8 @@
 ---
-title: Dynamic Norms: Why 'Everyone Wants to Grind' Is a Silent Lie · Ordinary Magic Reading Notes
-description: The most toxic group pressure isn't the system but 'everyone performs, everyone thinks only I perform'; measure the private belief gap, sell trajectory not absolute, sandbox exceptions, change defaults.
-keywords: dynamic norms, pluralistic ignorance, Schelling point, information cascades, default architecture
+title: "Dynamic Norms: Why 'Everyone Wants to Grind' Is a Silent Lie · Ordinary Magic Reading Notes"
+description: "The most toxic group pressure isn't the system but 'everyone performs, everyone thinks only I perform'; measure the private belief gap, sell trajectory not absolute, sandbox exceptions, change defaults."
+keywords: "dynamic norms, pluralistic ignorance, Schelling point, information cascades, default architecture"
+lang: en
 ---
 
 > [📚 Index](./)　·　[⬅️ Prev](12-narrative-reframing-endowment.md)　·　[Next ➡️](14-self-transcendent-purpose-dual-motive.md)

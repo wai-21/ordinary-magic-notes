@@ -1,7 +1,8 @@
 ---
-title: Trial III: The Side Letter Is the Knife You Handed Him · Ordinary Magic Reading Notes
-description: Publicly shaming him while privately slipping a non-disclosable payoff is handcuffing yourself and giving him the key; ban side letters, three-layer cut, self-report before he blows.
-keywords: whistleblower paradox, side letter, self-reporting disclosure, procedural justice, IPO compliance
+title: "Trial III: The Side Letter Is the Knife You Handed Him · Ordinary Magic Reading Notes"
+description: "Publicly shaming him while privately slipping a non-disclosable payoff is handcuffing yourself and giving him the key; ban side letters, three-layer cut, self-report before he blows."
+keywords: "whistleblower paradox, side letter, self-reporting disclosure, procedural justice, IPO compliance"
+lang: en
 ---
 
 > [📚 Index](./)　·　[⬅️ Prev](09-brilliant-jerk-blackmail.md)　·　[Next ➡️](11-wise-feedback-meta-signal.md)

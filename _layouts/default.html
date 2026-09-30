@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {% comment %} Conditional <title>:
+         - EN pages (under /en/) -> page.title only (pure English tab, no Chinese site name)
+         - ZH pages           -> page.title | site.title (preserves existing Chinese tabs)
+         - home (no page.title) -> site.title {% endcomment %}
+    <title>{% if page.title %}{{ page.title }}{% unless page.url contains '/en/' %}{% if site.title %} | {{ site.title }}{% endif %}{% endunless %}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% unless page.url contains '/en/' %}{% if site.title %} | {{ site.title }}{% endif %}{% endunless %}{% else %}{{ site.title }}{% endif %}">
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="{% if page.url contains '/en/' %}en_US{% else %}zh_CN{% endif %}">
+    <meta name="twitter:card" content="summary">
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      {% if site.title and site.title != page.title %}
+      <h1><a href="{{ "/" | absolute_url }}">{% if page.url contains '/en/' %}Ordinary Magic Reading Notes{% else %}{{ site.title }}{% endif %}</a></h1>
+      {% endif %}
+
+      {{ content }}
+
+      {% if site.github.private != true and site.github.license %}
+      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+        This site is open source. {% github_edit_link "Improve this page" %}.
+      </div>
+      {% endif %}
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>

@@ -14,12 +14,19 @@ OUT = "en/docs"
 
 BOOK = "Ordinary Magic Reading Notes"
 
-INDEX_TITLE = "Ordinary Magic (最小努力法则) · Reading Notes Index (16 Themes)"
+def yq(s):
+    """Wrap a string as a YAML double-quoted scalar (escapes backslashes and quotes).
+    Required because several EN titles contain ASCII colon-space (e.g. 'Dynamic Norms: Why...')
+    which is illegal in a YAML plain scalar and silently drops page.title."""
+    return '"' + str(s).replace('\\', '\\\\').replace('"', '\\"') + '"'
+
+# 纯英文标题（浏览器标签不得出现中文），目录页 H1 同步纯英文
+INDEX_TITLE = "Ordinary Magic · Reading Notes Index (16 Themes)"
 INDEX_DESC = "A practical reader's notebook that breaks down Gregory M. Walton's Ordinary Magic into 16 high-pressure decision scenarios: downward spiral, learned helplessness, identity reframing, threatened ego, trust rebuilding, belonging, institutional design, dynamic norms, self-transcendent purpose, institutional messaging, and ripple effects — with 60 actionable algorithms."
 INDEX_KEYWORDS = ("Ordinary Magic, Gregory Walton, wise interventions, reading notes, "
                  "downward spiral, learned helplessness, narrative reframing, belonging, "
                  "dynamic norms, self-transcendent purpose, institutional messaging, ripple effects")
-INDEX_H1 = "📘 Ordinary Magic (最小努力法则) · Reading Notes Index (16 Themes)"
+INDEX_H1 = "📘 Ordinary Magic · Reading Notes Index (16 Themes)"
 
 # (output filename, front matter title, start predicate, keywords, description)
 SECTIONS = [
@@ -196,16 +203,17 @@ def main():
         if prevf: nav += f"　·　[⬅️ Prev]({prevf})"
         if nextf: nav += f"　·　[Next ➡️]({nextf})"
         content = (
-            f"---\ntitle: {title}\ndescription: {desc}\nkeywords: {kw}\n---\n\n"
+            f"---\ntitle: {yq(title)}\ndescription: {yq(desc)}\nkeywords: {yq(kw)}\nlang: en\n---\n\n"
             f"> {nav}\n\n---\n\n{body}\n\n---\n\n> {nav}\n"
         )
         open(os.path.join(ROOT, OUT, fname), "w", encoding="utf-8").write(content)
         print(f"  ✓ {fname} ({len(content)} chars)")
 
     index = f"""---
-title: {INDEX_TITLE}
-description: {INDEX_DESC}
-keywords: {INDEX_KEYWORDS}
+title: {yq(INDEX_TITLE)}
+description: {yq(INDEX_DESC)}
+keywords: {yq(INDEX_KEYWORDS)}
+lang: en
 ---
 
 # {INDEX_H1}

@@ -1,7 +1,8 @@
 ---
-title: Do I Belong: Don't Make Him Fit In, Make Him Irreplaceable · Ordinary Magic Reading Notes
-description: 'just chat more and fit in' is toxic; reframe his misfit as the system's scarce asset and build belonging through shared crisis, not team-building.
-keywords: belonging uncertainty, outsider, functional complementarity, superordinate goal
+title: "Do I Belong: Don't Make Him Fit In, Make Him Irreplaceable · Ordinary Magic Reading Notes"
+description: "'just chat more and fit in' is toxic; reframe his misfit as the system's scarce asset and build belonging through shared crisis, not team-building."
+keywords: "belonging uncertainty, outsider, functional complementarity, superordinate goal"
+lang: en
 ---
 
 > [📚 Index](./)　·　[⬅️ Prev](05-trust-rebuilding-suspicion.md)　·　[Next ➡️](07-institutional-design-linkage.md)
