@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wai-21.github.io/ordinary-magic-notes/sitemap.xml

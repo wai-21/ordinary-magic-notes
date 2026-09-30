@@ -1,0 +1,16 @@
+title: "《最小努力法则》(Ordinary Magic) 读书笔记"
+description: "客观事实不致命，致命的是你对事实的解释。把格雷戈里·沃尔顿的《Ordinary Magic》(明智干预 / Wise Interventions) 拆进 12 个高压决策场景，附 43 条行动算法。"
+lang: zh-CN
+theme: jekyll-theme-primer
+url: https://wai-21.github.io
+baseurl: /ordinary-magic-notes
+
+defaults:
+  - scope: {path: ""}
+    values: {layout: default}
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+  - jekyll-readme-index
